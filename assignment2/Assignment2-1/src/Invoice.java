@@ -1,4 +1,3 @@
-package Assignmnet2_1;
 
 public class Invoice {
 	private double totalAmount;
@@ -60,4 +59,3 @@ public class Invoice {
 
 
 }
-
