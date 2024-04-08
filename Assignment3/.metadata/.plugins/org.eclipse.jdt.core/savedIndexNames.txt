@@ -1,5 +1,0 @@
-INDEX VERSION 1.134+D:\sunbeam\push\Java\Assignment3\.metadata\.plugins\org.eclipse.jdt.core
-1433545609.index
-3430644275.index
-1865797976.index
-2204139205.index
